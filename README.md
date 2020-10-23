@@ -1,6 +1,6 @@
 # CFA 一级
-* ## 1. Ethics and Trust in the Investment Profession
-  * ### a. explain ethics. 
+## 1. Ethics and Trust in the Investment Profession
+a. explain ethics. 
 b. describe the role of a code of ethics in defining a profession. 
 c. describe professions and how they establish trust. 
 d. describe the need for high ethical standards in the investment management. 
