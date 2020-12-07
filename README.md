@@ -1,11 +1,6 @@
 # CFA 一级
 ## [CFA一级进度](https://docs.qq.com/sheet/DTkVJa0tSeWZzZ3Rh?tab=BB08J2)
 ## [1. Ethics and Trust in the Investment Profession](levelOneDoc/los/los01/los01main.md)
-### 1.a. xxxxxxxxxxxx
-### 1.b. xxxxxxxxxxxx
-### [1.笔记](1.pdf)
-### [1.习题](1.pdf)
-### [1.易错](1.pdf)
 ## 2. Code of Ethics and Standards of Professional Conduct
 ## 3. Guidance for Standards I–VII
 ## 4. Introduction to the Global Investment Performance Standards (GIPS®)
