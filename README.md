@@ -1,6 +1,6 @@
 # CFA 一级
 ## [CFA一级进度](https://docs.qq.com/sheet/DTkVJa0tSeWZzZ3Rh?tab=BB08J2)
-## [1. Ethics and Trust in the Investment Profession](1.pdf)
+## [1. Ethics and Trust in the Investment Profession](levelOneDoc/los/los01/los01.md)
 ### 1.a. xxxxxxxxxxxx
 ### 1.b. xxxxxxxxxxxx
 ### [1.笔记](1.pdf)
