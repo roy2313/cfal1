@@ -1,5 +1,5 @@
 # CFA 一级
-## Authors: Roy, Vivi
+## [CFA一级进度](https://docs.qq.com/sheet/DTkVJa0tSeWZzZ3Rh?tab=BB08J2)
 ## [1. Ethics and Trust in the Investment Profession](1.pdf)
 ### 1.a. xxxxxxxxxxxx
 ### 1.b. xxxxxxxxxxxx
