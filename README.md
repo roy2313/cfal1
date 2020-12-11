@@ -5,7 +5,7 @@
 ## 3. Guidance for Standards I–VII
 ## 4. Introduction to the Global Investment Performance Standards (GIPS®)
 ## 5. The GIPS Standards
-## [6. The Time Value of Money](https://roy2313.github.io/cfal1/tree/main/levelOneDoc/los/los06)
+## [6. The Time Value of Money](https://roy2313.github.io/cfal1/levelOneDoc/los/los06/)
 ## 7. Statistical Concepts and Market Returns
 ## 8. Probability Concepts
 ## 9. Common Probability Distributions
